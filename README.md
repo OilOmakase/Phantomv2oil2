@@ -831,4 +831,4 @@ else if (Notification == 1){Notification = "ไฟล์แจก by PHANToM"}
 else if (Notification == 2){Notification = "ถ้าเจอเอาไปขาย ลบทันที"}
 else if (Notification == 3){Notification = "PHANToM Run Num Lite v.4"}
 else if (Notification == 4){Notification = "Line : phantom1669"}
-else if (Notification == 5){Notification = "มีอัปเดทนะ"}
+else if (Notification == 5){Notification = "มีอัปเดทน.ะ"}
