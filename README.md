@@ -824,7 +824,7 @@ setSelection(1, 2);sleep(pp);
 sendText(a10);
 setSelection(0, 2);
 sleep(pp);
-  pp = pp * 0.00000001;}
+  pp = pp * 0;}
 Notification = random(0,4);
 if (Notification == 0){Notification = "PHANToM RBH Increaster"}
 else if (Notification == 1){Notification = "ไฟล์แจก by PHANToM"}
